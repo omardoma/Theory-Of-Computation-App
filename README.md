@@ -1,8 +1,8 @@
 # Theory-Of-Computation-App
 
-Eclipse Java Project
+An app to help study theory of computation by simulating some algorithms in Java & Swing.
 
-How to run? 
+## How to run? 
 
 Import Project in eclipse
 
